@@ -1,0 +1,203 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "realuppies.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#16x16_Pixel_Brick_Platforms": {
+            "scaleInDock": 1
+        },
+        "#autumn_": {
+            "scaleInDock": 1
+        },
+        "#foreground_": {
+            "scaleInDock": 1
+        },
+        "#items_": {
+            "scaleInDock": 1
+        },
+        "#sky_": {
+            "scaleInDock": 1
+        },
+        "#staticObjects_": {
+            "scaleInDock": 1.5
+        },
+        "actual.json": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 491.6666666666667,
+                "y": 509.66666666666663
+            }
+        },
+        "actual.json#16x16_Pixel_Brick_Platforms": {
+            "scaleInDock": 1
+        },
+        "actual.json#coin_": {
+            "scaleInDock": 1
+        },
+        "actual.json#dungeon_": {
+            "scaleInDock": 2
+        },
+        "actual.json#eventBlock_": {
+            "scaleInDock": 1
+        },
+        "actual.json#foreground_": {
+            "scaleInDock": 2
+        },
+        "desertDungeon_.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "first.tmj": {
+            "scale": 0.8069062499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 798.1100654506022,
+                "y": 480.22927074861553
+            }
+        },
+        "idk.json": {
+            "scale": 0.8069062499999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 797.4904147786684,
+                "y": 476.51136671701323
+            }
+        },
+        "images/winter_.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "mayberight.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 495.3333333333333,
+                "y": 779.3333333333333
+            }
+        },
+        "mayberight.json#coin_": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "parkour.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 428.66666666666663,
+                "y": 347.33333333333326
+            }
+        },
+        "parkour.json#16x16_Pixel_Brick_Platforms": {
+            "scaleInDock": 1
+        },
+        "parkour.json#coin_": {
+            "scaleInDock": 1
+        },
+        "parkour.json#items_": {
+            "scaleInDock": 3
+        },
+        "parkour.json#sky_": {
+            "scaleInDock": 1
+        },
+        "parkour.tmj": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1471.212121212121,
+                "y": 601.5151515151514
+            }
+        },
+        "parkour.tmj#16x16_Pixel_Brick_Platforms": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "parkour.tmj#coin_": {
+            "scaleInDock": 1
+        },
+        "parkour.tmj#items_": {
+            "scaleInDock": 1
+        },
+        "parkour.tmj#sky_": {
+            "scaleInDock": 1
+        },
+        "realuppies.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 295.4545454545455,
+                "y": 1168.1818181818182
+            }
+        },
+        "spring.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uppies.json": {
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 165.15151515151524,
+                "y": 1237.8787878787878
+            }
+        },
+        "uppies.json#autumn_": {
+            "scaleInDock": 1
+        },
+        "uppies.json#foreground_": {
+            "scaleInDock": 1
+        },
+        "uppies.json#items_": {
+            "scaleInDock": 1
+        },
+        "uppies.json#sky_": {
+            "scaleInDock": 1
+        },
+        "uppies.json#staticObjects_": {
+            "scaleInDock": 1
+        },
+        "uppies.json#summer_": {
+            "scaleInDock": 1
+        },
+        "winter_.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/14064/OneDrive/Documents/school/2024 Spring/Applied Programming/platformer/images/fourSeasonsPlatformer_ [tileset, version 2.0]/midground_",
+    "map.height": 150,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "actual.json",
+        "parkour.json",
+        "uppies.json",
+        "realuppies.json"
+    ],
+    "project": "maybemap.tiled-project",
+    "recentFiles": [
+        "actual.json",
+        "parkour.json",
+        "uppies.json",
+        "realuppies.json",
+        "mayberight.json",
+        "idk.json",
+        "parkour.tmj",
+        "spring.tsx",
+        "desertDungeon_.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
