@@ -27,11 +27,14 @@
             "scaleInDock": 1.5
         },
         "actual.json": {
-            "scale": 1.5,
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 2,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 491.6666666666667,
-                "y": 509.66666666666663
+                "x": 284.25,
+                "y": 334.75
             }
         },
         "actual.json#16x16_Pixel_Brick_Platforms": {
@@ -48,6 +51,9 @@
         },
         "actual.json#foreground_": {
             "scaleInDock": 2
+        },
+        "actual.json#items_": {
+            "scaleInDock": 3
         },
         "desertDungeon_.tsx": {
             "scaleInDock": 1,
@@ -86,11 +92,14 @@
             "scaleInDock": 1
         },
         "parkour.json": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 428.66666666666663,
-                "y": 347.33333333333326
+                "x": 695.5,
+                "y": 420.5
             }
         },
         "parkour.json#16x16_Pixel_Brick_Platforms": {
@@ -130,9 +139,24 @@
             "scale": 0.33,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 295.4545454545455,
-                "y": 1168.1818181818182
+                "x": 1850,
+                "y": 1265.151515151515
             }
+        },
+        "realuppies.json#autumn_": {
+            "scaleInDock": 1
+        },
+        "realuppies.json#foreground_": {
+            "scaleInDock": 1
+        },
+        "realuppies.json#sky_": {
+            "scaleInDock": 1
+        },
+        "realuppies.json#staticObjects_": {
+            "scaleInDock": 1
+        },
+        "realuppies.json#summer_": {
+            "scaleInDock": 1
         },
         "spring.tsx": {
             "dynamicWrapping": false,
@@ -144,7 +168,7 @@
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 165.15151515151524,
-                "y": 1237.8787878787878
+                "y": 1234.848484848485
             }
         },
         "uppies.json#autumn_": {
@@ -170,7 +194,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "C:/Users/14064/OneDrive/Documents/school/2024 Spring/Applied Programming/platformer/images/fourSeasonsPlatformer_ [tileset, version 2.0]/midground_",
+    "last.imagePath": "C:/Users/14064/OneDrive/Documents/school/2024 Spring/Applied Programming/platformer/images/fourSeasonsPlatformer_ [tileset, version 2.0]/objects_",
     "map.height": 150,
     "map.lastUsedFormat": "json",
     "map.tileHeight": 16,
@@ -183,6 +207,7 @@
         "realuppies.json"
     ],
     "project": "maybemap.tiled-project",
+    "property.type": "float",
     "recentFiles": [
         "actual.json",
         "parkour.json",
