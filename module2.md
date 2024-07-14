@@ -88,7 +88,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: https://github.com/crtubbbs/platformer
 
-2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/5JnNf8IVSl4
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/wHl_5_jxfdA
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
